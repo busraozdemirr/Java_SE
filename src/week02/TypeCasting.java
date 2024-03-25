@@ -19,6 +19,7 @@ public class TypeCasting {
         System.out.println(intValue);
          float number1 = 5.0f;
          int sun =(int) (number1 + 5);
+         boolean sum = false;
         System.out.println(sum);
         String sum2 = String.valueOf(sum);
         System.out.println();
