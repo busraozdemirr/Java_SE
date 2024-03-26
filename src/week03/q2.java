@@ -14,8 +14,8 @@ public class q2 {
            sayi=scanner.nextInt();
            if(sayi ==0){
                System.out.println(" 0 sayısının girdiği girilen sayıların toplamı hesaplanıyor");
-               break;
-               toplam += sayi;
+
+
 
 
         }
