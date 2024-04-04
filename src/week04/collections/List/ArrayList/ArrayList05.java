@@ -1,4 +1,4 @@
-package Week4.Collections.List.ArrayList;
+package week04.Collections.List.ArrayList;
 
 import java.util.Arrays;
 import java.util.List;

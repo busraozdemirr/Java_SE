@@ -1,6 +1,5 @@
-package Week4.Collections.List.ArrayList;
+package week04.Collections.List.ArrayList;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 

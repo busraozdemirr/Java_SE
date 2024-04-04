@@ -1,6 +1,4 @@
-package Week4.Collections.List.LinkedList;
-
-import com.sun.tools.javac.Main;
+package week04.Collections.List.LinkedList;
 
 import java.util.LinkedList;
 import java.util.Queue;

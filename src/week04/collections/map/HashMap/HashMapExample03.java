@@ -1,6 +1,5 @@
-package Week4.Collections.map.HashMap;
+package week04.Collections.map.HashMap;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

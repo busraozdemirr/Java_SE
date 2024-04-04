@@ -1,4 +1,4 @@
-package Week4.Collections.map.TreeMap;
+package week04.Collections.map.TreeMap;
 
 import java.util.Map;
 import java.util.TreeMap;

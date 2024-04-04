@@ -1,8 +1,7 @@
-package Week4.Collections.List.LinkedList;
+package week04.Collections.List.LinkedList;
 
 import java.util.Deque;
 import java.util.LinkedList;
-import java.util.List;
 
 public class LinkedList02 {
     public static void main(String[] args) {
